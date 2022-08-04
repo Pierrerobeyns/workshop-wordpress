@@ -4,5 +4,5 @@
 1. Installation
 2. Réglages
 3. Thèmes
-4. Plug-in
-5. Création de plug-in
+4. Plugin
+5. Création de plugin
