@@ -67,7 +67,7 @@ Vous allez apprendre aussi comment installer un plugin et un thème pour votre s
 ## Voilà, vous pouvez commencer à créer votre premier site WordPress !  
 
 
-<h2>3. Réglages </h2>
+<h1>2. Réglages </h1>
 
 <h3>:warning: Il est important d'enregistrer après chaque étapes</h3>
 
