@@ -7,6 +7,10 @@
 5. Plugin
 6. Création de plugin
 
+# 1. Introduction
+
+Dans ce repository, nous allons vous expliquer comment lancer son premier site WordPress. Vous allez aussi voir des conseils pour avoir des bons régles.
+Vous allez apprendre aussi comment installer un plugin et un thème pour votre site.
 
 
 
