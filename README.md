@@ -4,12 +4,11 @@
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </p>
 
-1. Introduction
-2. Installation
-3. Réglages
-4. Thèmes
-5. Plugin
-6. Création de plugin
+0. Introduction
+1. Installation
+2. Réglages
+3. Thèmes
+4. Plugin
 
 # 0. Introduction
 
@@ -67,7 +66,7 @@ Vous allez apprendre aussi comment installer un plugin et un thème pour votre s
 ## Voilà, vous pouvez commencer à créer votre premier site WordPress !  
 
 
-<h2>3. Réglages </h2>
+<h2>2. Réglages </h2>
 
 <h3>:warning: Il est important d'enregistrer après chaque étapes</h3>
 
@@ -90,7 +89,7 @@ On peut également modifier:
 <img src="https://user-images.githubusercontent.com/98603007/183050458-7b3f2ac3-9563-42ba-b37b-a1f930ced886.png">
 
 
-# 4. Thème
+# 3. Thème
 
 - Pour avoir de chouette thème gratuit, il existe Envato Element.
 
@@ -116,7 +115,7 @@ On peut également modifier:
 
 ![image](Images/check_template.png)
 
-# 5. Plugin
+# 4. Plugin
 
 - Lorsque vous voulez faire un plugin, vous devez ouvrir dans votre éditeur de code (ex: VsCode), le dossier que vous avez crée dans "htdocs" ou "www".
 
