@@ -26,16 +26,16 @@
 - Lancer le serveur local
 
 - Créer votre dossier dans le dossier htdocs
-<img src="Capture d’écran 2022-08-04 à 16.38.51">
+![image](Images/image2.png)
 
 - Copier/coller le contenu du dossier Wordpress dans le dossier que vous avez créé.
-<img src="Capture d’écran 2022-08-04 à 16.43.33">
+![image](Images/image3.png)
 
 - Rendez-vous sur PHPMyAdmin pour créer une base de données
-<img src="Capture d’écran 2022-08-04 à 16.47.17">
+![image](Images/image4.png)
 
 - Créer une base de donnée qui porte le nom de votre dossier
-<img src="Capture d’écran 2022-08-04 à 16.47.26">
+![image](Images/image5.png)
 
 - vous pouvez quitter PHPMyAdmin
   
@@ -47,7 +47,7 @@
         - identifiant : c'est votre identifiant phpmyadmin
         - mot de passe : mot de passe phpmyadmin
         - Ne pas modifier les 2 derniers champs
-<img src="Capture d’écran 2022-08-04 à 16.49.09">
+![image](Images/image6.png)
 
 - Compléter les champs suivant : 
         - Titre du site : Choisissez un titre pour votre site (modifiable par la suite)
@@ -55,6 +55,6 @@
         - Mot de passe : Choisissez un mot de passe très complexe (Si vous faites      juste un test, vous pouvez inscrire "admin")
         - Si votre mot de passe est faible, cochez la case juste en dessous
         - Inscrivez votre e-mail
-<img src="Capture d’écran 2022-08-04 à 16.51.13">
+![image](Images/image7.png)
 
 Voilà vous pouvez commencer à créer votre premier site WordPress !
