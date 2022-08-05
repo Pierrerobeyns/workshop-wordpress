@@ -10,7 +10,7 @@
 
 
 
-1. Installation et Premier site
+# Installation et Premier site
 
 - Aller sur www.wordpress.org
   
