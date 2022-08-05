@@ -15,7 +15,7 @@
 - Aller sur www.wordpress.org
   
 - Cliquer sur Get Wordpress
-  ![image](image1.png)
+  ![image](Images/image1.png)
 
 - Décompresser le dossier wordpress
 
