@@ -13,7 +13,6 @@ Dans ce repository, nous allons vous expliquer comment lancer son premier site W
 Vous allez apprendre aussi comment installer un plugin et un thème pour votre site.
 
 
-
 # 2. Installation et Premier site
 
 - Aller sur www.wordpress.org
@@ -46,19 +45,19 @@ Vous allez apprendre aussi comment installer un plugin et un thème pour votre s
 - Vous pouvez lancer votre premier site Wordpress en inscrivant l'url suivant :
     localhost/"nom du dossier" (ex: localhost/test)
 
-- Compléter les champs suivant :
-        - Base de données : "nom de votre base de donnée"
-        - identifiant : c'est votre identifiant phpmyadmin
-        - mot de passe : mot de passe phpmyadmin
-        - Ne pas modifier les 2 derniers champs
+- Compléter les champs suivant :  
+        - Base de données : "nom de votre base de donnée"  
+        - identifiant : c'est votre identifiant phpmyadmin  
+        - mot de passe : mot de passe phpmyadmin  
+        - Ne pas modifier les 2 derniers champs  
 ![image](Images/image6.png)
 
-- Compléter les champs suivant : 
-        - Titre du site : Choisissez un titre pour votre site (modifiable par la suite)
-        - Identifiant : Inscrivez ce que vous voulez (ex: Admin)
-        - Mot de passe : Choisissez un mot de passe très complexe (Si vous faites      juste un test, vous pouvez inscrire "admin")
-        - Si votre mot de passe est faible, cochez la case juste en dessous
-        - Inscrivez votre e-mail
+- Compléter les champs suivant :   
+        - Titre du site : Choisissez un titre pour votre site (modifiable par la suite)  
+        - Identifiant : Inscrivez ce que vous voulez (ex: Admin)  
+        - Mot de passe : Choisissez un mot de passe très complexe (Si vous faites      juste un test, vous pouvez inscrire "admin")  
+        - Si votre mot de passe est faible, cochez la case juste en dessous  
+        - Inscrivez votre e-mail  
 ![image](Images/image7.png)
 
-Voilà vous pouvez commencer à créer votre premier site WordPress !
+## Voilà, vous pouvez commencer à créer votre premier site WordPress !
