@@ -62,3 +62,26 @@ Vous allez apprendre aussi comment installer un plugin et un thème pour votre s
 ![image](Images/image7.png)
 
 Voilà vous pouvez commencer à créer votre premier site WordPress !
+
+
+# 5. Plugin
+
+- Lorsque vous voulez faire un plugin, vous devez ouvrir dans votre éditeur de code (ex: VsCode), le dossier que vous avez crée dans "htdocs" ou "www".
+![image](Images/wamp.png)
+
+
+- Une fois dans ouvert dans votre éditeur, ouvrez ensuite le dossier que vous avez crée pour WordPress.
+![image](Images/www_htdocs.png)
+
+- Ensuite, vous allez dans wp-content, plugins puis vous créez un dossier qui contiendra votre plugin (ici c'est: "headerplugin").
+- Vous ouvrez le dossier "headerplugin" et vous devez crée un fichier du même nom (attention de ne pas oublier le ".php").
+![image](Images/makePlugin.png)
+
+- Une fois ceci fait, vous devez nommé et définir certaine variables pour votre plugins ( voir ici: [Doc WordPress](https://developer.wordpress.org/plugins/plugin-basics/header-requirements/))
+![image](Images/init.png)
+
+- Quand votre plugin est bien nommer/décris, il reste le code à faire et voici [un site](https://themeisle.com/blog/code-snippets-for-wordpress/) pour des petits tips utile. (dans l'exemple de cet exercice, j'ai pris le n°6)
+![image](Images/exemple.png)
+
+- Voilà, il ne reste plus qu'a activé votre plugin dans les extensions.
+![image](Images/activation.png)
