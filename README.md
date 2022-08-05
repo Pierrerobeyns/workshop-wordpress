@@ -90,3 +90,55 @@ On peut également modifier:
 <img src="https://user-images.githubusercontent.com/98603007/183050458-7b3f2ac3-9563-42ba-b37b-a1f930ced886.png">
 
 
+# 4. Thème
+
+- Pour avoir de chouette thème gratuit, il existe Envato Element.
+
+![image](Images/envato_element.png)
+
+- Vous pourrez dès lors avoir accès au thème gratuit ou par block gratuit.
+
+![image](Images/ensemble_EvE.png)
+
+- Vous pourrez choisir une catégorie spécifique ou faire une simple recherche.
+
+![image](Images/categorie.png)
+
+- Une fois votre thème choisis, il reste plus qu'a faire un "intall kit"
+
+![image](Images/instal_kit.png)
+
+- Vous pouvez cliqué sur "view kit"
+
+![image](Images/view.png)
+
+- Maintenant, vous aurez le choix entre plusieurs template en rapport avec le thème intaller. Vous pouvez évidemment regarder à quoi va ressembler le template avec de le choisir.
+
+![image](Images/check_template.png)
+
+# 5. Plugin
+
+- Lorsque vous voulez faire un plugin, vous devez ouvrir dans votre éditeur de code (ex: VsCode), le dossier que vous avez crée dans "htdocs" ou "www".
+
+![image](Images/wamp.png)
+
+- Une fois dans ouvert dans votre éditeur, ouvrez ensuite le dossier que vous avez crée pour WordPress.
+
+![image](Images/www_htdocs.png)
+
+- Ensuite, vous allez dans wp-content, plugins puis vous créez un dossier qui contiendra votre plugin (ici c'est: "headerplugin").
+- Vous ouvrez le dossier "headerplugin" et vous devez crée un fichier du même nom (attention de ne pas oublier le ".php").
+
+![image](Images/makePlugin.png)
+
+- Une fois ceci fait, vous devez nommé et définir certaine variables pour votre plugins ( voir ici: [Doc WordPress](https://developer.wordpress.org/plugins/plugin-basics/header-requirements/)).
+
+![image](Images/init.png)
+
+- Quand votre plugin est bien nommer/décris, il reste le code à faire et voici [un site](https://themeisle.com/blog/code-snippets-for-wordpress/) pour des petits tips utile. (dans l'exemple de cet exercice, j'ai pris le n°6)
+
+![image](Images/exemple.png)
+
+- Voilà, il ne reste plus qu'a activé votre plugin dans les extensions.
+
+![image](Images/activation.png)
