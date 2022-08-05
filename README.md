@@ -7,13 +7,13 @@
 5. Plugin
 6. Création de plugin
 
-# 1. Introduction
+# 0. Introduction
 
 Dans ce repository, nous allons vous expliquer comment lancer son premier site WordPress. Vous allez aussi voir des conseils pour avoir des bons régles.
 Vous allez apprendre aussi comment installer un plugin et un thème pour votre site.
 
 
-# 2. Installation et Premier site
+# 1. Installation et Premier site
 
 - Aller sur www.wordpress.org
   
@@ -67,14 +67,8 @@ Vous allez apprendre aussi comment installer un plugin et un thème pour votre s
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </p>
 
-0. Introduction
-1. Installation
-2. Réglages
-3. Thèmes
-4. Plugin
-5. Création de plugin
 
-<h2>2. Réglages </h2>
+<h2>3. Réglages </h2>
 
 <h3>:warning: Il est important d'enregistrer après chaque étapes</h3>
 
