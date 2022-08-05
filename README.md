@@ -1,5 +1,9 @@
 <h1>Workshop WordPress</h1>
 
+<p align=center>
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+</p>
+
 1. Introduction
 2. Installation
 3. Réglages
@@ -60,12 +64,7 @@ Vous allez apprendre aussi comment installer un plugin et un thème pour votre s
         - Inscrivez votre e-mail  
 ![image](Images/image7.png)
 
-## Voilà, vous pouvez commencer à créer votre premier site WordPress !
-<h1 align=center> Workshop WordPress</h1>
-
-<p align=center>
-<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-</p>
+## Voilà, vous pouvez commencer à créer votre premier site WordPress !  
 
 
 <h2>3. Réglages </h2>
