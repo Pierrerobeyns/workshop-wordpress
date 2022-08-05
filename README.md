@@ -63,6 +63,31 @@ Vous allez apprendre aussi comment installer un plugin et un thème pour votre s
 
 Voilà vous pouvez commencer à créer votre premier site WordPress !
 
+# 4. Thème
+
+- Pour avoir de chouette thème gratuit, il existe Envato Element.
+
+![image](Images/envato_element.png)
+
+- Vous pourrez dès lors avoir accès au thème gratuit ou par block gratuit.
+
+![image](Images/ensemble_EvE.png)
+
+- Vous pourrez choisir une catégorie spécifique ou faire une simple recherche.
+
+![image](Images/categorie.png)
+
+- Une fois votre thème choisis, il reste plus qu'a faire un "intall kit"
+
+![image](Images/instal_kit.png)
+
+- Vous pouvez cliqué sur "view kit"
+
+![image](Images/view.png)
+
+- Maintenant, vous aurez le choix entre plusieurs template en rapport avec le thème intaller. Vous pouvez évidemment regarder à quoi va ressembler le template avec de le choisir.
+
+![image](Images/check_template.png)
 
 # 5. Plugin
 
