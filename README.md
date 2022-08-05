@@ -15,7 +15,7 @@
 - Aller sur www.wordpress.org
   
 - Cliquer sur Get Wordpress
-  <img src="./Capture d’écran 2022-08-04 à 16.19.36">
+  ![image](image1.png)
 
 - Décompresser le dossier wordpress
 
